@@ -1,0 +1,41 @@
+# Language Translation Tool
+
+This project is a simple *Language Translation Tool* developed using *HTML, CSS, and JavaScript*.  
+It allows users to translate text between different languages using an online translation API.
+
+---
+
+## 🚀 Project Overview
+
+The Language Translation Tool helps users:
+- Enter text in one language
+- Select source and target languages
+- Get instant translated output
+
+This project is beginner-friendly and demonstrates how APIs can be integrated into web applications.
+
+---
+
+## 🛠 Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- LibreTranslate API
+
+---
+
+## ⚙ How It Works
+
+1. User enters text in the input box.
+2. User selects source and target languages.
+3. JavaScript sends the text to the Translation API.
+4. The translated text is displayed in the output box.
+
+---
+
+## ▶ How to Run the Project
+
+1. Download or clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Language-Translation-Tool.git
